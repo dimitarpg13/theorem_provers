@@ -1,6 +1,7 @@
 # Theorem Prover Models and Proof Assistants
 
 **Key Architectural Paradigms**
+
 The field has consolidated around a few approaches: whole-proof generation (emit an entire proof, validate with Lean), stepwise tactic generation with tree search (BFS, MCTS), and agentic/modular approaches that decompose proofs into sub-lemmas and iteratively refine with compiler feedback. The current generation is critically dependent on large-scale synthetically generated training data covering difficult intermediate proof states. 
 
 For details see: https://www.emergentmind.com/topics/llm-based-theorem-provers
