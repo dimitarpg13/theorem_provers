@@ -44,6 +44,22 @@ related github repo: https://github.com/hrmacbeth/math2001
 
 [Theorem Proving in Lean 4: Propositions and Proofs](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/#propositions-and-proofs)
 
+[Theorem Proving in Lean 4: Quantifiers and Equality](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/#quantifiers-and-equality)
+
+[Theorem Proving in Lean 4: Tactics](https://lean-lang.org/theorem_proving_in_lean4/Tactics/#Theorem-Proving-in-Lean-4--Tactics)
+
+[Theorem Proving in Lean 4: Inductive Types](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/#inductive-types)
+
+[Theorem Proving in Lean 4: Induction and Recurrsion](https://lean-lang.org/theorem_proving_in_lean4/Induction-and-Recursion/#induction-and-recursion)
+
+[Theorem Proving in Lean 4: Structures and Records](https://lean-lang.org/theorem_proving_in_lean4/Structures-and-Records/#structures-and-records)
+
+[Theorem Proving in Lean 4: Type Classes](https://lean-lang.org/theorem_proving_in_lean4/Type-Classes/#type-classes)
+
+[Theorem Proving in Lean 4: The Conversion Tactic Mode](https://lean-lang.org/theorem_proving_in_lean4/The-Conversion-Tactic-Mode/#conv)
+
+[Theorem Proving in Lean 4: Axioms and Computation](https://lean-lang.org/theorem_proving_in_lean4/Axioms-and-Computation/#axioms-and-computation)
+
 ## Problems
 
 [Challenging Math Problems with Elementary Solutions Vol. 1, A.M. Yaglom, I.M. Yaglom, 1964](https://github.com/dimitarpg13/theorem_provers/blob/main/literature/problems/Challenging_Math_Problems_with_Elementary_Solutions_Vol1_Yaglom.pdf)
