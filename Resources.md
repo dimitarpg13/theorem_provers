@@ -36,6 +36,14 @@ related github repo: https://github.com/hrmacbeth/math2001
 
 [Lean 4: an extensible proof assistant and programming language, Leonardo de Moura, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/lean_itp_summer_school_2023.pdf)
 
+[Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
+
+[Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/)
+
+[Theorem Proving in Lean 4: Dependent Type Theory](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/#dependent-type-theory)
+
+[Theorem Proving in Lean 4: Propositions and Proofs](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/#propositions-and-proofs)
+
 ## Problems
 
 [Challenging Math Problems with Elementary Solutions Vol. 1, A.M. Yaglom, I.M. Yaglom, 1964](https://github.com/dimitarpg13/theorem_provers/blob/main/literature/problems/Challenging_Math_Problems_with_Elementary_Solutions_Vol1_Yaglom.pdf)
