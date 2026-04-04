@@ -1,6 +1,6 @@
 # Theorem Prover Models
 
-## Goedel-Prover-V2:
+## Goedel-Prover-V2
 
 repo: https://github.com/Goedel-LM/Goedel-Prover
 
@@ -8,6 +8,21 @@ paper: [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Sy
 
 huggingface: https://huggingface.co/Goedel-LM/Goedel-Prover-SFT
 
+## DeepSeek-Prover-V1.5
+
+repo: https://github.com/deepseek-ai/DeepSeek-Prover-V1.5
+
+paper: [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte Carlo Tree Search, H. Xin et al, 2024](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5/blob/main/paper.pdf)
+
+## Kimina Prover
+
+repo 1: https://github.com/MoonshotAI/Kimina-Prover-Preview
+
+repo 2: https://github.com/project-numina/kimina-prover-rl/tree/main/recipe/kimina_prover_rl
+
+huggingface: https://huggingface.co/collections/AI-MO/kimina-prover
+
+paper: [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning, H. Wang et al, 2025](https://arxiv.org/abs/2504.11354)
 
 ## Problems
 
